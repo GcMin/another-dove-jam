@@ -1,0 +1,18 @@
+# Godot 4+
+.godot/
+
+# Godot 3 legacy import cache, harmless to ignore if a proposal experiments with an older project
+.import/
+
+# Export credentials may contain signing/private data
+export_credentials.cfg
+
+# Local editor / OS files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Common IDE local state
+.idea/
+.vscode/
